@@ -1,0 +1,18 @@
+body{
+    margin: 5px;
+    padding: 1%;
+    background-color: bisque;
+}
+p{
+    word-spacing: 2px;
+    line-height:70 px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* species.html */
+.boll{
+    border: 1px;
+}
+table{
+    border: 1px;
+}
